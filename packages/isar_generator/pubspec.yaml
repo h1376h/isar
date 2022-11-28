@@ -8,7 +8,7 @@ environment:
   sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
-  isar: 3.0.0-dev.1
+  isar: ^3.0.0-dev.1
   build: ^2.3.0
   source_gen: ^1.2.2
   analyzer: ^4.1.0
